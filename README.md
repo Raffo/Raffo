@@ -1,4 +1,15 @@
-This is fine.
+## About me 
+
+I'm a software engineer currently working at GitHub where I focus on continuous delivery and Kubernetes related topics. When this site is broken, I'm often on a call to fix it 😬
+
+Other notable tech things about me:
+
+- I am a Kubernetes contributor, I created my first Kubernetes cluster in 2015 and I run Kubernetes in production since 2016.
+- I am the creator and maintainer of [ExternalDNS](https://github.com/kubernetes-sigs/external-dns), which I try to keep alive in the little time I have (I work on it in my spare time).
+- I like to program in Go, but don't mind other programming languages.
+
+
+## This is fine dog 👇
 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
