@@ -8,6 +8,10 @@ Other notable tech things about me:
 - I am the creator and maintainer of [ExternalDNS](https://github.com/kubernetes-sigs/external-dns), which I try to keep alive in the little time I have (I work on it in my spare time).
 - I like to program in Go, but don't mind other programming languages.
 
+I am often the bottleneck in the release of ExternalDNS. I apologize.
+
+![external-dns-release-process](https://github.com/user-attachments/assets/fabcfc22-af8c-4100-8089-a0d171c12414)
+
 
 ## This is fine dog 👇
 
